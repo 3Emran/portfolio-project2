@@ -1,0 +1,70 @@
+/* common style */
+* {
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-image: url('images/banner-image.png');
+    width: 90%;
+    height: 461px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 20px auto;
+}
+
+.banner {
+    text-align: center;
+    padding: 93px;
+    color: white;
+    font-family: Merriweather;
+    word-wrap: break-word;
+    text-decoration: none;
+  }
+.banner-text {
+    font-size: 32px;
+}
+.banner-title {
+    font-size: 72px;
+}
+.new-year {
+    width: 55%;
+    height: 478px;
+    display: block;
+    align-items: center;
+    background-size: contain;
+    margin: 82px 264px 0px;
+}
+.new-year-img {
+    width: 429px;
+    margin: 0px 121px 120px;
+}
+.new-year-title {
+    color: #070211;
+    font-size: 45px;
+    margin-bottom: 23px;
+}
+.new-year-text {
+    color: #FF0000;
+    font-size: 24px;
+    font-size: small;
+    margin: 5px 0;
+}
+.new-year-text-sec {
+    text-align: center;
+    font-family: Inter;
+    text-decoration: none;
+}
+.offer {
+    color: #FF0000;
+    font-size: 88px;
+}
+/* midnight party */
+.victory-img {
+    width: 90%;
+    height: 461px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 140px auto;
+}
