@@ -28,12 +28,12 @@
     font-size: 72px;
 }
 .new-year {
-    width: 55%;
-    height: 478px;
-    display: block;
-    align-items: center;
-    background-size: contain;
-    margin: 82px 264px 0px;
+width: 55%;
+  height: 478px;
+  display: block;
+  align-items: center;
+  background-size: contain;
+  margin: 65px 264px 0px;
 }
 .new-year-img {
     width: 429px;
@@ -60,6 +60,7 @@
     font-size: 88px;
 }
 /* midnight party */
+
 .victory-img {
     width: 90%;
     height: 461px;
@@ -67,4 +68,68 @@
     background-repeat: no-repeat;
     display: block;
     margin: 140px auto;
+}
+.container{
+    background-image: url('images/Vectorrr.png');
+    width: 90%;
+    height: 461px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 65px auto;
+}
+.victory-text {
+    color: white;
+    font-size: 64px;
+    font-family: Merriweather;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    word-wrap: break-word
+}
+.victory-tex-sec{
+    width: 50%;
+    height: auto;
+    text-decoration: ;
+    padding: 126px 50px;
+}
+.victory-msg {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+    font-size: small;
+}
+.victory-text {
+    color: white;
+    font-size: 64px;
+    font-family: Merriweather;
+    font-weight: 900;
+    letter-spacing: 0.04px;
+}
+.vicrory-join-text {
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    padding: 20px 33px;
+}
+.join-section {
+    background-color: #fff0f0eb;
+    width: 100%;
+    height: 461px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0;
+}
+.join-sec-text {
+    text-align: center;
+    padding: 429px;
+}
+.color {
+    color: #FF0000;
 }
